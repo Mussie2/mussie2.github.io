@@ -1,0 +1,27 @@
+body{
+    background-image: url(/main\ img/section-bg.jpg);
+    background-repeat: no-repeat;
+    background-color:#090909;
+    background-size: cover;
+    font-family: 'Times New Roman', Times, serif;
+}
+div{
+    display: none;
+}
+#appName{
+    color: white;
+}
+#userName{
+    font-style: italic;
+}
+ul{
+    background-image: url(/main\ img/background.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: #071807;
+    font-size: 20px;
+    padding: 0px;
+    border: 1px solid black;
+    width: 220px;
+    height: 400px;
+}
