@@ -32,6 +32,7 @@ send.addEventListener('click', function(){
     var textMesg = document.createElement('li')
     textMesg.innerHTML = text.value;
     textMesg.style.listStyle = 'none';
+    textMesg.style.fontWeight = 'bold';
     textMesg.style.margin = '5px';
     //msBox.appendChild(textMesg);
     message.appendChild(textMesg);
